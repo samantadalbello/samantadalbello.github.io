@@ -178,6 +178,8 @@ span.glyphicon.glyphicon-search.edit {
 	margin-bottom: 0.5em;
 }
 .bgi p {
+	display: table;
+  	margin: 0px auto 0px auto;
 	font-weight: 300;
 	color: #FFFFFF;
 	font-size: 1.3em;
